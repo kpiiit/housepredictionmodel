@@ -1,1 +1,2 @@
 # housepredictionmodel
+## used basic methods
